@@ -2,6 +2,7 @@ This page provides informations about popular simulation game Simcity Buildit an
 
 Download the game:
 Andorid: https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row
+
 IOS: https://apps.apple.com/us/app/simcity-buildit/id913292932
 
 Official Youtube channel: https://www.youtube.com/watch?v=iQQ3znvSfr0
